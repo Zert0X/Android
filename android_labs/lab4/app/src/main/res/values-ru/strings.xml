@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Visiting Card 90201 lab2</string>
+
+    <string name="field_work_num">Лабораторная №:</string>
+    <string name="field_first_name">Имя:</string>
+    <string name="field_second_name">Фамилия:</string>
+    <string name="field_patron">Отчество:</string>
+    <string name="field_department">Кафедра:</string>
+    <string name="field_specialization">Направление:</string>
+    <string name="field_group">Группа:</string>
+    <string name="field_email">Почта:</string>
+    <string name="field_birthday">День рождения:</string>
+    <string name="field_next_birthday">Следующее день рождение через:</string>
+
+    <string name="value_work_num">2</string>
+    <string name="value_first_name">Марк</string>
+    <string name="value_second_name">Бардин</string>
+    <string name="value_patron">Игоревич</string>
+    <string name="value_department">Кафедра информационных и управляющих систем</string>
+    <string name="value_specialization">09.03.02 «Информационные системы и технологии»</string>
+    <string name="value_group">ИТ-902</string>
+    <string name="value_email">kiramys133@yandex.ru</string>
+    <string name="value_birthday">20.12.2002</string>
+</resources>

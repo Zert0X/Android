@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Visiting Card 90201 lab2</string>
+
+    <string name="field_work_num">Lab №:</string>
+    <string name="field_first_name">Name:</string>
+    <string name="field_second_name">Second Name:</string>
+    <string name="field_patron">Patron:</string>
+    <string name="field_department">Department:</string>
+    <string name="field_specialization">Specialization:</string>
+    <string name="field_group">Group:</string>
+    <string name="field_email">email:</string>
+    <string name="field_birthday">Birthday:</string>
+    <string name="field_next_birthday">Next birthday in:</string>
+
+    <string name="value_work_num">14</string>
+    <string name="value_first_name">Mark</string>
+    <string name="value_second_name">Bardin</string>
+    <string name="value_patron">Igorevich</string>
+    <string name="value_department">Department of Information and Control Systems</string>
+    <string name="value_specialization">09.03.02 “Information systems and technologies”</string>
+    <string name="value_group">IT-902</string>
+    <string name="value_email">kiramys133@yandex.ru</string>
+    <string name="value_birthday">20.12.2002</string>
+</resources>

@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Date &amp; Time 90201</string>
+    <string name="Toast">Используйте "Длинное" нажатие для вызова меню</string>
+    <string name="work_num">Лабораторная №8</string>
+    <string name="FIO">Бардин М.И.</string>
+    <string name="subMenuTime">Настройки формата времени</string>
+    <string name="subMenuDate">Настройки даты</string>
+    <string name="subMenuToast">Настройки уведомлений</string>
+    <string name="MENU_ITEM_ON">Вкл</string>
+    <string name="MENU_ITEM_OFF">Выкл</string>
+    <string name="MENU_ITEM_24H">24ч формат</string>
+    <string name="MENU_ITEM_12H">12ч формат</string>
+
+</resources>

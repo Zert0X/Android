@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Counter 90201</string>
+    <string name="txt_btn_plus">+</string>
+    <string name="txt_btn_minus">-</string>
+    <string name="work">Лабораторная работа №6</string>
+    <string name="by_who">Бардин М.И.</string>
+</resources>
